@@ -1,4 +1,4 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+<!-- <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
@@ -68,4 +68,326 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## License
 
-The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT). -->
+
+
+
+Table of Contents
+
+
+Project: Complete Garage Management System using PHP and MySQL with Source Code
+About Complete Garage Management System using PHP MySQL Project Free Download
+Features of Complete Garage Management System
+Server Requirements
+Installation
+1). FTP Upload
+Database setup (adsbygoogle = window.adsbygoogle || []).push({}); (adsbygoogle = window.adsbygoogle || []).push({});
+      Note : Enter the same user name and password used in the control panel. otherwise, it redirect to the first step. All privileges to give the database user can access the database use in control panel.
+System Setting
+Login Details
+Finish
+Front-end Login Page:
+Admin View:
+1)Dashboard:
+2)Settings
+A) General Settings
+Business Information
+B) Other Settings
+Time Zone
+Language
+Date Format
+Currency
+C) Access Right Settings
+Access Right Settings
+D) Business Hours Settings
+Business Hours
+Business Holiday
+3)Inventory
+A) Supplier
+Personal Information
+Address
+Custom Fields
+B)Product
+C)Purchase
+Purchase Details
+D)Stock
+Purchase Details
+4)Users
+A) Customer
+Personal Information
+Address
+CustomField
+FAQ
+1) I Don’t see Installer Page properly.No background image, no Next button nothing.
+Demo on Garage Management System
+Project: Complete Garage Management System using PHP and MySQL with Source Code
+About Complete Garage Management System using PHP MySQL Project Free Download
+Garage Management System using PHP MySQL Free Download for Laravel the ideal way to manage complete Garage Management System. It has different user roles like Admin, Customer, Employee, Support Staff and Accountant.
+
+Features of Complete Garage Management System
+Admin, Customer, Employee, Support Staff and Accountant Roles
+Job Card Creation and Gate Pass Management System
+Car Service Date List for Employees
+KPI Reports for Product, Sales, and Services,
+Invoices and Payment Management System
+Automatic Services Reminders
+Auto Service Management Software
+Innovative Dashboard
+Manage both sales and service
+Different user roles available
+Easy to Configure
+General Settings
+Access Rights
+Create Quotation Easily
+Job Card Module
+Job Card Management
+Complete Service Module
+Inventory Management
+Vehicle Management
+Part Sales Module
+Reports
+Email Templates
+Server Requirements
+However, if you are not using Homestead, you will need to make sure your server meets the following requirements:
+
+
+PHP version >= 7.3
+Downlod Composer.
+make sure you have Composer installed on your machine.
+Go to Package Directory in update composer.[Example->(D:\wamp64\www\garage)].
+Below All PHP Entensions are required
+
+BCMath PHP Extension
+Ctype PHP Extension
+Fileinfo PHP Extension
+JSON PHP Extension
+Mbstring PHP Extension
+OpenSSL PHP Extension
+PDO PHP Extension
+Tokenizer PHP Extension
+XML PHP Extension
+Installation
+1). FTP Upload
+Unzip the ” Garage-package.zip ” file.
+Upload the extracted “Garage” folder into your server.
+Then open Phpmyadmin in your server and create new database. Create database in cPanel Click here
+Then open your link in web browser and you will show Installation wizard.
+Database setup
+
+garage management system installation
+
+Database Name : Enter your database name same as in the control panel
+Database User name : Enter a database user name used in control panel.
+Database Password : Enter a database password same used in control panel.
+Host : Enter a host name used in control panel.
+      Note : Enter the same user name and password used in the control panel. otherwise, it redirect to the first step.
+All privileges to give the database user can access the database use in control panel.
+System Setting
+arage management system installation
+System Name :Enter a new system name.
+Email :Enter a new email.
+Address :Enter a new address.
+First Name :Enter a new first name.
+Last Name :Enter a new last name.
+Login Details
+
+garage management system installation
+
+Username :Enter a new admin username.
+Password :Enter a new admin password.
+Confirm Password :Enter a new admin confirm password.
+Finish
+garage management system installation
+
+Users
+Once System installed successfully.You can login into the system with entered username and password.
+
+
+Front-end Login Page:
+You can now log in with admin username and password.
+
+Admin View:
+1)Dashboard:
+Admin side dashboard view.
+
+admin dashboard
+
+2)Settings
+A) General Settings
+Click on Setting inside Click on General Setting to start setting up the system. You are advised to fill all fields of General settings as these details are used in a different section of the whole system. You can change these settings as per your requirement.
+
+garage management
+Business Information
+System Name: Enter a new system name for this general settings.
+Starting Year: Enter a new starting year for this general settings.
+Phone Number: Enter a new phone number for this general settings.
+E-mail: Enter a new e-mail for this general settings.
+Address: Enter a new address for this general settings.
+Country: Select country for this general settings.
+State: Select state for this general settings.
+City: Select city for this general settings.
+Logo Image: Upload logo image for this general settings.
+Cover Image: Upload cover image for this general settings.
+Paypal Email Id: Enter a new paypal email id for this general settings.
+B) Other Settings
+Click on Setting inside Click on Other Setting to start setting up the system. You are advised to fill all fields of Other Settings as these details are used in a different section of the whole system. You can change these settings as per your requirement.
+
+
+Time Zone
+Select Timezone: Select timezone for this setting.
+Language
+Select Language: Select language for this setting.
+Date Format
+Select Date Format: Select date format for this setting.
+Currency
+Select Currency: Select currency for this setting.
+C) Access Right Settings
+Click on Setting inside Click on Access Right Setting to start setting up the system. Access rights is a functionality for all users like Customer, Support Staff, Employee and Accountant to give access rights for use modules of this system. Here all modules like Inventory, Users, Vehicles, Service etc. in this modules which module with access to add, edit, view and delete access right for all users. So basically admin can give rights to all users for access right to operate this all modules.
+
+Access Right Settings
+Accordion with user name: Customer, Employee, Support Staff and Accountant.
+Module Name: Modules like Vehicle, Supplier, Product, Service etc. This all module have data and this data with make operations like, Add, Edit, Delete, View also Owndata.
+View: For modules with rights to view this data.
+Add: For modules with rights to add this data.
+Update: For modules with rights to update this data.
+Delete: For modules with rights to delete this data.
+Owndata: For modules with rights to make operation like edit, and view data, this is owndata rights.
+D) Business Hours Settings
+Click on Setting inside Click on BusinessHours Setting to start setting up the system. You are advised to fill all fields of BusinessHours settings as these details are used a different section of the whole system. You can change these business Hours and holiday as per your requirement.
+
+Business Hours
+Select day. Select open hours. Select close hours.
+select open hours and close hours a same time select in day off.
+Business Holiday
+Date: Select date for this business Hours.
+Title: Enter a new title name for this business hours.
+Description: Enter a new description for this business hours.
+3)Inventory
+A) Supplier
+Supplier List: Admin can add new Supplier, manage all Supplier and view a complete list of all Supplier.
+
+
+
+garage system
+Personal Information
+First Name: Enter a new first name for this supplier.
+Last Name: Enter a new last name for this supplier.
+Company Name: Enter a new company name for this supplier.
+Gender: Select gender for this supplier.
+Date of Birth: Enter a new date of birth for this supplier.
+Contact Person: Enter a new contact person for this supplier.
+Email: Enter a new email for this supplier.
+Mobile No: Enter a new mobile number for this supplier.
+Landline No: Enter a new landlines number for this supplier.
+Image: Upload image for this supplier.
+Address
+Country: Select country for this supplier.
+State: Select state for this supplier.
+City: Select city for this supplier.
+Address: Enter a new address for this supplier.
+Custom Fields
+Add new custom field in go to custom Fields module in add custom field then select form name in supplier and add custom field for this supplier.
+Edit Supplier: Admin can Edit detail of particular Supplier by clicking on Edit detail button. This will open up details. From here admin can Change Supplier Details.
+
+View Supplier: Admin can view a complete list of all Supplier and view detail of particular Supplier by clicking on view detail button. This will open up details.
+
+
+Delete Supplier: Admin can delete a complete list of all Supplier and delete detail of particular Supplier by clicking on delete detail button. This will delete details.
+
+B)Product
+Product List: Admin can add new Product and manage all types of Product as well as view a complete list of all Product.
+
+Add Product: Admin can add product details
+
+
+Product Number: Product number auto generated.
+Product Date: Enter a new product date for this product.
+Product Image: Upload image for this product.
+Name: Enter a new name for this product.
+Manufacturer Name: Select manufacturer name for this product.
+Add Or Remove: If desired manufacturer name is not available in a list then click on Add Or Remove button. You can add new manufacturer name from here.
+Price: Enter a new price for this product.
+Color: Select color for this product.
+Add Or Remove: If the desired color is not available in a list then click on Add Or Remove button. You can add new color from here.
+Warranty: Enter a new warranty for this product.
+Supplier: Select supplier for this product.
+Quantity: Enter a new quantity for this product.
+Unit of Measurement: Select unit of measurement for this product.
+Add Or Remove: If the desired unit of measurement is not available in a list then click on Add Or Remove button. You can add new unit of measurement from here.
+Edit Product: Admin can Edit detail of particular Product by clicking on Edit detail button. This will open up details. From here admin can Change Product Details.
+
+Delete Product: Admin can delete a complete list of all Product and delete detail of particular Product by clicking on delete detail button. This will delete details.
+C)Purchase
+Purchase List: You can add new Purchase, manage all Purchase and view a complete list of all Purchase.
+
+Add Purchase: You can add purchase details.
+
+
+Purchase No: Purchase number auto generated.
+Purchase Date: Enter a new purchase date for this purchase.
+Supplier Name: Select supplier name for this purchase.
+Mobile Number: Select supplier and auto generated mobile.
+Email: Select supplier and auto generated email.
+Billing Address: Select supplier and auto generated address.
+Purchase Details
+Add New: Add new product for this purchase.
+Manufacturer Name: Select manufacturer name for this purchase.
+Product Name: Select product name for this purchase.
+Quantity: Enter a new quantity for this purchase.
+Price: Select product name and auto generated price
+Amount: Select product name and quantity and auto generated amount.
+Action: Delete product for this purchase
+View Purchase: Admin can view detail of particular Purchase by clicking on view detail button. This will open up details.
+
+Edit Purchase: Admin can Edit detail of particular Purchase by clicking on Edit detail button. This will open up details. From here admin can Change Purchase Details.
+
+Delete Purchase: Admin can delete a complete list of all Purchase and delete detail of particular Purchase by clicking on delete detail button. This will delete details.
+D)Stock
+Stock List: Admin can view a complete list of all Stock and view detail of particular Stock by clicking on view detail button. This will open up details. From here admin can also Print Out view Stock.
+
+
+Add Stock: You can add Stock details.
+
+Purchase No: Purchase number auto generated.
+Purchase Date: Enter a new purchase date for this purchase.
+Supplier Name: Select supplier name for this purchase.
+Mobile Number: Select supplier and auto generated mobile.
+Email: Select supplier and auto generated email.
+Billing Address: Select supplier and auto generated address.
+Purchase Details
+Add New: Add new product for this purchase.
+Manufacturer Name: Select manufacturer name for this purchase.
+Product Name: Select product name for this purchase.
+Quantity: Enter a new quantity for this purchase.
+Price: Select product name and auto generated price
+Amount: Select product name and quantity and auto generated amount.
+Action: Delete product for this purchase
+View Stock: Admin can view the particular stock details.
+
+4)Users
+A) Customer
+Customer List: Admin can add new Customer, manage all Customer and view a complete list of all Customer.
+
+
+Personal Information
+First Name: Enter a new first name for this customer.
+Last Name: Enter a new last name for this customer.
+Display Name: Enter a new display name for this customer.
+Gender: Select gender for this customer.
+Date of Birth: Enter a new date of birth for this customer.
+Email: Enter a new email for this customer.
+Password: Enter a new password for this customer.
+Confirm Password: Enter a new confirm password for this customer.
+Mobile No: Enter a new mobile number for this customer.
+Landline No: Enter a new landline number for this customer.
+Image: Upload image for this customer.
+Address
+Country: Select country for this customer.
+State: Select state for this customer.
+City: Select city for this customer.
+Address: Enter a new address for this customer.
+CustomField
+Add new custom field in go to custom Fields module in add custom field then select form name in customer and add custom field for this customer.
+Edit Customer: Admin can Edit detail of particular customer by clicking on Edit detail button. This will open up details. From here admin can Change customer Details.
+
+View Customer: Admin can view a complete list of all Customer and view detail of particular Customer by clicking on view detail button. This will open up details.
