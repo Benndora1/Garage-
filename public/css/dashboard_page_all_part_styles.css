@@ -1,0 +1,24 @@
+/*Dashborad page have all parts to set border like 'Calendar Events' 'Recently Joined Customer' 
+'Monthly Service Summary' etc */
+
+.cld{
+	 border-top: 3px solid #F25656;
+}
+.rjc{
+	border-top: 3px solid #3a87ad;
+}
+.tmm{
+	border-top: 3px solid #f39c12;
+}
+.mss{
+    border-top: 3px solid  #12AFCB;
+}
+.freebuttom{
+	    border-top: 3px solid #996600;
+}
+.paidbuttom{
+	    border-top: 3px solid #f39c12 ;
+}
+.repeatbuttom{
+	    border-top: 3px solid #00a65a ;
+}

@@ -1,0 +1,1737 @@
+/*Media Query*/
+
+/**
+ * -Solved by Mukesh [Bug list row number: 702]
+ * -Set Table size with responsive of Job Card\ List Of Jobcard \ ViewInvoice [Table responsive]
+ *
+ **/
+.color-danger{
+	color: #a94442;
+}
+
+@media (min-width: 311px) and (max-width: 320px)
+{
+	.setTableSizeForSmallDevices {
+		font-size: 6px;
+	}
+}
+@media (min-width: 321px) and (max-width: 340px)
+{
+	.setTableSizeForSmallDevices {
+		font-size: 7px;
+	}
+}
+@media (min-width: 341px) and (max-width: 360px)
+{
+	.setTableSizeForSmallDevices {
+		font-size: 8px;
+	}
+}
+@media (min-width: 361px) and (max-width: 390px)
+{
+	.setTableSizeForSmallDevices {
+		font-size: 9px;
+	}
+}
+@media (min-width: 391px) and (max-width: 410px)
+{
+	.setTableSizeForSmallDevices {
+		font-size: 10px;
+	}
+}
+@media (min-width: 411px) and (max-width: 430px)
+{
+	.setTableSizeForSmallDevices {
+		font-size: 11px;
+	}
+}
+@media (min-width: 431px) and (max-width: 450px)
+{
+	.setTableSizeForSmallDevices {
+		font-size: 12px;
+	}
+}
+@media (min-width: 451px) and (max-width: 475px)
+{
+	.setTableSizeForSmallDevices {
+		font-size: 13px;
+	}
+}
+
+
+
+
+@media (min-width: 311px) and (max-width: 321px)
+{
+	/**
+	 * -Solved by Mukesh [Bug list row number: 710]
+	 * -Set margin of Job Card\ Tabs [List of Jobcard, Add Jobcard (list)]
+	 *
+	 **/
+	.setMarginForAddJobcardForSmallDevices {
+		margin-top: 3px !important;
+	}
+
+}
+
+@media (min-width: 311px) and (max-width: 390px)
+{
+	/**
+	 * -Solved by Mukesh [Bug list row number: 709]
+	 * -Set margin of Tabs [Vehiclebrand\list]
+	 **/
+	.setMarginForAddVehicleBrandForSmallDevices {
+		margin-top: 3px !important;
+	}
+
+	ul.bar_tabs>li.active.setMarginForAddVehicleBrandForSmallDevices {
+		margin-top: 3px !important;
+	}
+}
+
+@media (min-width: 311px) and (max-width: 359px)
+{
+	/**
+	 * -Solved by Mukesh [Bug list row number: 679]
+	 * -Set size of tabs on Complience Management (List of Rto Taxes, Add Rto Taxes) [Complience Management\add, list]
+	 *
+	 **/
+	.setTabAddRtoTaxOnSmallDevice {
+		margin-top: 3px !important;
+	}
+
+	/**
+	 * -Solved by Mukesh [Bug list row number: 708]
+	 * -Set margin of Accountant&Tax Rates /Account Tax [List Account Tax, Add Account Tax Tabs (list, add, edit)]
+	 **/
+	.setMarginForAddAccountTaxForSmallDevices {
+		margin-top: 3px !important;
+	}
+	ul.bar_tabs>li.active.setMarginForAddAccountTaxForSmallDevices {
+		margin-top: 3px !important;
+	}
+}
+
+
+@media (min-width: 311px) and (max-width: 375px)
+{
+
+	/**
+	 * -Solved by Mukesh [Bug list row number: 703]
+	 * -Set margin of Reports Tab[Vehicle Sale, Service, Product Stock, Product List, Emp Services (list, product_uses)]
+	 **/
+	ul.bar_tabs>li.active.setMarginForReportOnSmallDeviceService {
+		margin-top: -15px !important;
+	}
+	ul.bar_tabs>li.active.setMarginForReportOnSmallDeviceProductStock {
+		margin-top: 3px !important;
+	}
+	ul.bar_tabs>li.active.setMarginForReportOnSmallDeviceProductUsage {
+		margin-top: 5px !important;
+	}
+	ul.bar_tabs>li.active.setMarginForReportOnSmallDeviceServiceByEmployee {
+		margin-top: 3px !important;
+	}
+
+	.setMarginForReportOnSmallDeviceProductStock {
+		margin-top: 3px !important;
+	}
+	.setMarginForReportOnSmallDeviceProductUsage{
+		margin-top: 3px !important;
+	}
+	.setMarginForReportOnSmallDeviceServiceByEmployee {
+		margin-top: 3px !important;
+	}
+
+}
+
+@media (min-width: 376px) and (max-width: 526px)
+{
+	/**
+	 * -Solved by Mukesh [Bug list row number: 703]
+	 * -Set margin of Reports Tab[Vehicle Sale, Service, Product Stock, Product List, Emp Services (list, product_uses)]
+	 **/
+	ul.bar_tabs>li.active.setMarginForReportOnSmallDeviceProductStock {
+		margin-top: -15px !important;
+	}
+	ul.bar_tabs>li.active.setMarginForReportOnSmallDeviceProductUsage {
+		margin-top: 3px !important;
+	}
+	ul.bar_tabs>li.active.setMarginForReportOnSmallDeviceServiceByEmployee {
+		margin-top: 3px !important;
+	}
+
+	.setMarginForReportOnSmallDeviceProductUsage{
+		margin-top: 3px !important;
+	}
+	.setMarginForReportOnSmallDeviceServiceByEmployee {
+		margin-top: 3px !important;
+	}
+
+}
+
+@media (min-width: 527px) and (max-width: 660px)
+{
+	/**
+	 * -Solved by Mukesh [Bug list row number: 703]
+	 * -Set margin of Reports Tab[Vehicle Sale, Service, Product Stock, Product List, Emp Services (list, product_uses)]
+	 **/
+	ul.bar_tabs>li.active.setMarginForReportOnSmallDeviceProductUsage {
+		margin-top: -15px !important;
+	}
+	ul.bar_tabs>li.active.setMarginForReportOnSmallDeviceServiceByEmployee {
+		margin-top: 3px !important;
+	}
+
+	.setMarginForReportOnSmallDeviceServiceByEmployee {
+		margin-top: 3px !important;
+	}
+
+}
+@media (min-width: 311px) and (max-width: 414px)
+{
+	/**
+	 * -Solved by Mukesh [Bug list row number: 668]
+	 * -Alert dialogbox show in mobile full size now set both side (left-right) 25px gape
+	 *
+	 **/
+	.showSweetAlert {
+		margin-left: 25px;
+    	margin-right: 25px;
+	}
+
+	.rightSideDay {
+		float: right !important;
+	}
+	/**
+	 * -Solved by Mukesh [Bug list row number: 669]
+	 * -Delete take in one line with edit button [Product\Addproduct]
+	 *
+	 **/
+	#deleteBtnCss {
+		margin-left: 7px !important;
+	}
+
+
+	/**
+	 * -Solved by Mukesh [Bug list row number: 682]
+	 * -Set textbox, label and delete button set [expense\add.blade.php]
+	 *
+	 **/
+	.SetSizeAddExpenseEntryTextBox {
+		width: 104% !important;
+	}
+	.SetSizeAddExpenseLabelTextBox {
+		width: 108% !important;
+		margin-left: -10px;
+	}
+	.givePaddingToDiv .addmoredelete{
+		margin-left: -10px;
+	}
+	.expenseLabel {
+		padding-left: 0px !important;
+	}
+	.deleteButton {
+		margin-left: 2px;
+	}
+
+	/**
+	 * -Solved by Mukesh [Bug list row number: 679]
+	 * -Set size of tabs on Income (Income List, Add Income, Monthly Income Report) [Income list, add, month_income]
+	 *
+	 **/
+	.setSizeForMonthlyIncomeReportForSmallDevice {
+		margin-top: 3px !important;
+	}
+
+	ul.bar_tabs > li.active.setSizeForMonthlyIncomeReportForSmallDevice {
+    	margin-top: 3px !important;
+	}
+
+	ul.bar_tabs > li.active.setSizeForAddIncomeForSmallDevice {
+		margin-top: -15px !important;
+	}
+
+	/**
+	 * -Solved by Mukesh [Bug list row number: 679]
+	 * -Set size of tabs on Expense [Expense list, add expense, monthly expense report]
+	 **/
+	.setSizeForMonthlyExpenseReportForSmallDevice {
+		margin-top: 3px !important;
+	}
+
+	ul.bar_tabs > li.active.setSizeForMonthlyExpenseReportForSmallDevice {
+		margin-top: 3px !important;
+	}
+
+	ul.bar_tabs > li.active.setSizeForAddExpenseReportForSmallDevice {
+		margin-top: -15px !important;
+	}
+
+	/**
+	 * -Solved by Mukesh [Bug list row number: 679]
+	 * -Set size of tabs on Invoice (Income List, Add Income, Monthly Income Report) [Income list, add, month_income]
+	 **/
+	.setMarginForXpanelDivOnSmallDevice {
+		margin-top: 47px;
+	}
+
+	.setMarginForAddSalePartInvoiceOnSmallDevice {
+		margin-top: 3px !important;
+	}
+
+}
+
+
+@media (min-width: 311px) and (max-width: 360px)
+{
+	/**
+	 * -Solved by Mukesh [Bug list row number: ]
+	 * -Set size of tabs on Support Staff (SupportStaff List, Add SupportStaff) [Supportstaff\add, list]
+	 **/
+	.setTabAddSupportStaffOnSmallDevice {
+		margin-top: 3px !important;
+	}
+
+	ul.bar_tabs>li.active.setTabAddSupportStaffOnSmallDevice {
+		margin-top: 3px !important;
+	}
+
+	/**
+	 * -Solved by Mukesh [Bug list row number: 679]
+	 * -Set margin of Tabs Custom Field [List Custom Field/ Add Custom Field ]
+	 **/
+	.setSizeForAddCustomFieldForSmallDevice {
+		margin-top: 3px !important;
+	}
+
+	ul.bar_tabs > li.active.setSizeForAddCustomFieldForSmallDevice {
+		margin-top: 3px !important;
+	}
+
+
+	/**
+	 * -Solved by Mukesh [Bug list row number: 688]
+	 * -Set margin of Paywithcard, Print, Pdf and Close Nutton [Invoice\sales_partinvoicemodel.blade.php]
+	 **/
+	.mpPayWithCardButtonForSmallDevices {
+		margin-left: -14px;
+	}
+
+	.mpPrintPdfCloseButtonForSmallDevices {
+		float: right !important;
+		margin-right: -17px;
+	}
+
+	.mpPrintPdfCloseButtonForSmallDevices .printbtn {
+		margin-left: 19px !important;
+	}
+
+	.mpPrintPdfCloseButtonForSmallDevices .pdfButton {
+		margin-left: -4px !important;
+	}
+
+	.mpPrintPdfCloseButtonForSmallDevices .closeButton {
+		margin-left: -3px !important;
+	}
+	
+}
+
+
+@media (min-width: 311px) and (max-width: 410px)
+{
+	/**
+	 * -Solved by Mukesh [Bug list row number: 707]
+	 * -Set margin of Accountant&Tax Rates /List payment Method[Payment Method List, Add Payment Method Tabs (list, add, edit)]
+	 **/
+	.setMarginForAddPaymentMethodForSmallDevices {
+		margin-top: 3px !important;
+	}
+
+	ul.bar_tabs > li.active.setMarginForAddPaymentMethodForSmallDevices {
+		margin-top: 3px !important;
+	}
+
+}
+
+
+@media (min-width: 361px) and (max-width: 575px)
+{
+	/**
+	 * -Solved by Mukesh [Bug list row number: 688]
+	 * -Set margin of Paywithcard, Print, Pdf and Close Nutton [Invoice\sales_partinvoicemodel.blade.php]
+	 *
+	 **/
+	.mpPayWithCardButtonForSmallDevices {
+		margin: 0px !important;
+		padding: 0px !important;
+	}
+
+	.mpPrintPdfCloseButtonForSmallDevices {
+		text-align: right !important;
+    	margin: 0px !important;
+    	padding: 0px !important;
+	}
+}
+
+
+@media (min-width: 367px) and (max-width: 414px)
+{
+	/**
+	 * -Solved by Mukesh [Bug list row number: 682]
+	 * -Set margin of Dlete Button [observation\list.blade.php]
+	 *
+	 **/
+	#setMarginOfDeleteBtn {
+		margin-top: 0px !important;
+	}
+
+}
+
+
+@media (min-width: 367px) and (max-width: 775px)
+{
+	/**
+	 * -Solved by Mukesh [Bug list row number: 702]
+	 * -Set margin of Dlete Button [product, supplier, purchase, vehicle\list.blade.php]
+	 *
+	 **/
+	.buttonOfAtag .btn-danger {
+		margin-left: 3px !important;
+	}
+}
+
+/*For display proper Date error message*/
+@media (min-width: 279px) and (max-width: 309px)
+{
+	#date_of_birth-error {
+		margin-left: 5%;
+		margin-top: 76px;
+	}
+
+	#join_date-error{
+		margin-left: 5%;
+		margin-top: 76px;
+	}
+
+	#p_date-error {
+		margin-left: 4%;
+	}	
+
+	.categoryMainDiv{
+		margin-top: 25px;
+	}
+
+	#pur_date-error {
+		margin-left: 3%;
+	}
+
+	.mobileNumberDivPurchasePage {
+		margin-top: 20px;
+	}
+
+	#sales_date-error {
+		float: left;
+    	margin-left: 17.5%;
+	}
+
+	#sales_date-error {
+    	margin-left: 4%;
+	}
+	
+	#bus_date-error {
+    	margin-left: 5%;
+	}
+
+	#start_date-error {
+		margin-left: 4%;
+	}	
+	#end_date-error {
+		margin-left: 4%;
+	}
+
+	#income_date-error {
+		margin-left: 5%;
+		margin-top: 38px;
+	}
+
+	/*.div_salesmanname_error {
+		margin-top: 40%;
+	}*/
+
+	#salesDate-error {
+		float: left !important;
+		margin-left: 4%;
+	}
+
+}
+
+@media (min-width: 310px) and (max-width: 354px)
+{
+	#outdate_gatepass-error{
+		margin-left: 4%;
+	}
+	#bus_date-error {
+    	margin-left: 4%;
+	}
+
+	#start_date-error {
+		margin-left: 3%;
+	}	
+	#end_date-error {
+		margin-left: 3%;
+	}
+
+	#income_date-error {
+		margin-left: 4%;
+		margin-top: 38px;
+	}
+
+	/*.div_salesmanname_error {
+		margin-top: 38%;
+	}*/
+
+	#salesDate-error {
+		float: left !important;
+		margin-left: 4%;
+	}
+}
+
+@media (min-width: 354px) and (max-width: 420px)
+{
+	#start_date-error {
+		margin-left: 3%;
+	}	
+	#end_date-error {
+		margin-left: 3%;
+	}
+
+	#income_date-error {
+		margin-left: 3%;
+		margin-top: 38px;
+	}
+
+	/*.div_salesmanname_error {
+		margin-top: 28%;
+	}*/
+
+	#salesDate-error {
+		float: left !important;
+		margin-left: 3%;
+	}
+}
+
+@media (min-width: 480px) and (max-width: 545px)
+{
+	#start_date-error {
+		margin-left: 2%;
+	}	
+	#end_date-error {
+		margin-left: 2%;
+	}
+
+	#income_date-error {
+		margin-left: 2%;
+		margin-top: 38px;
+	}
+}
+
+@media (min-width: 546px) and (max-width: 610px)
+{
+	#start_date-error {
+		margin-left: 2%;
+	}	
+	#end_date-error {
+		margin-left: 2%;
+	}
+
+	#income_date-error {
+		margin-left: 2%;
+		margin-top: 38px;
+	}
+}
+
+@media (min-width: 355px) and (max-width: 590px)
+{
+	#outdate_gatepass-error{
+		margin-left: 2%;
+	}
+
+	#sales_date-error {
+    	margin-left: 3%;
+	}
+
+	#bus_date-error {
+    	margin-left: 3%;
+	}
+}
+
+@media (min-width: 591px) and (max-width: 767px)
+{
+	#outdate_gatepass-error{
+		margin-left: 1%;
+	}
+	#bus_date-error {
+    	margin-left: 1%;
+	}
+}
+
+/*For display proper Date error message*/
+@media (min-width: 310px) and (max-width: 767px)
+{
+	#date_of_birth-error {
+		margin-left: 3%;
+		margin-top: 76px;
+	}
+
+	#join_date-error{
+		margin-left: 3%;
+		margin-top: 76px;
+	}
+
+	#p_date-error {
+		margin-left: 3%;
+	}
+
+	.categoryMainDiv{
+		margin-top: 25px;
+	}
+
+	#pur_date-error {
+		margin-left: 2%;
+	}
+
+	.mobileNumberDivPurchasePage {
+		margin-top: 20px;
+	}
+
+	.customerAddRemove {
+		margin-top: 15px;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 769px)
+{
+	#p_date-error {
+		float: right;
+    	margin-right: 11%;
+	}
+
+	.mobileNumberDivPurchasePage {
+		margin-top: 20px;
+	}
+
+	#income_date-error {
+		margin-left: 28%;
+		margin-top: 38px;
+	}
+}
+
+@media (max-width: 767px)
+{
+	.outstandingMainDiv {
+		margin-top: 7%;
+	}
+
+	.div_salesmanname_error {
+		margin-top: 40%;
+	}
+}
+
+@media (min-width: 770px)
+{
+	#date_of_birth-error {
+		margin-left: 35%;
+		margin-top: 38px;
+	}
+
+	#join_date-error{
+		margin-left: 35%;
+		margin-top: 38px;
+	}
+
+	#p_date-error {
+		float: right;
+		margin-right: 19%;
+	}
+
+	#pur_date-error {
+		float: right;
+		margin-right: 18%;
+	}
+
+	.mobileNumberDivPurchasePage {
+		margin-top: 20px;
+	}
+
+	#outdate_gatepass-error{
+		margin-left: 26.60%;
+	}
+
+	#sales_date-error {
+		float: left;
+    	margin-left: 17.5%;
+	}
+
+	#bus_date-error {
+		position: absolute;
+		left: 26.4%;
+		top: 84%;
+	}
+
+	.businessTitleMainDiv {
+		margin-top: 20px;
+	}
+	.businessDescriptionMainDiv {
+		margin-top: 15px;
+	}
+
+	#income_date-error {
+		margin-left: 27%;
+		margin-top: 38px;
+	}
+}
+
+
+#customer_select_box-error {
+	position: absolute;
+	top: 90%;
+}
+
+#supplier_select-error {
+	position: absolute;
+	top: 92%;
+}
+
+#sup_id-error{
+	position: absolute;
+    top: 92%;
+}
+
+#vehicle_names-error {
+	position: absolute;
+	top: 90%;
+}
+
+#selUser-error {
+	position: absolute;
+	top: 90%;
+}
+
+#salesDate-error {
+	float: right;
+	margin-right: 23.4%;
+}
+
+
+
+/*------ For dashboard wizard icon ------*/
+/*span.marker-text_green {
+	color: #008000;
+	font-size: 16px;
+	//margin-top: 13px;
+	font-weight: bold;
+}
+span.marker-text_blue {
+	color: #2A3F54;
+	font-size: 16px;
+	//margin-top: 13px;
+	font-weight: bold;
+}
+
+.wizard_image_green  .green_img {
+	height: 60%;
+	width: 60%;
+	margin-top: 15px;
+}
+
+.wizard_image_blue .blue_img {
+	height: 60%;
+	width: 60%;
+	margin-top: 15px;
+}
+
+.wizard_image_green {
+	width: 7em;
+	height: 7em;
+	text-align: center;
+	line-height: 5em;
+	border-radius: 5.5em;
+	border: solid #008000 4px;
+	margin: 0 1.5em;
+	display: inline-block;
+	color: white;
+	position: relative;
+}
+
+.wizard_image_blue {
+	width: 7em;
+	height: 7em;
+	text-align: center;
+	line-height: 5em;
+	border-radius: 5.5em;
+	border: solid #2A3F54 4px;
+	margin: 0 1.5em;
+	display: inline-block;
+	color: white;
+	position: relative;
+}
+
+.wizard_image_main_class li.wizard_image_green::before{
+	background: #008000;
+    bottom: auto;
+    content: "";
+    height: 4px;
+    left: 90px;
+    margin-top: 45px;
+    position: absolute;
+    right: auto;
+    width: 50px;
+    z-index: 1;
+}
+
+.wizard_image_main_class li.wizard_image_blue::before{
+	background: #2A3F54;
+    bottom: auto;
+    content: "";
+    height: 4px;
+    left: 90px;
+    margin-top: 45px;
+    position: absolute;
+    right: auto;
+    width: 50px;
+    z-index: 1;
+}
+
+.wizard_image_main_class li:last-child::before{
+	display:none;
+}
+
+li .span_img_green img {
+	height: 30%;
+	width: 30%;
+	position: relative;
+    top: -186%;
+    left: 35%;
+}
+li .span_img_blue img {
+	height: 30%;
+	width: 30%;
+	position: relative;
+    top: -186%;
+    left: 35%;
+}
+
+@media (min-width: 279px) and (max-width: 344px)
+{
+	span.marker-text_green {
+		color: #008000;
+		font-size: 6px;
+		margin-top: 9px;
+		font-weight: bold;
+	}
+	span.marker-text_blue {
+		color: #2A3F54;
+		font-size: 6px;
+		margin-top: 9px;
+		font-weight: bold;
+	}
+
+	.wizard_image_green .green_img {
+		height: 48%;
+		width: 48%;
+		margin-top: 4px;
+	}
+	.wizard_image_blue .blue_img {
+		height: 48%;
+		width: 48%;
+		margin-top: 4px;
+	}
+
+	.wizard_image_green {
+		width: 2.8em;
+		height: 2.8em;
+		text-align: center;
+		line-height: 2em;
+		border-radius: 5.5em;
+		border: solid #008000 2px;
+		margin: 0 0.8em;
+		display: inline-block;
+		color: #008000;
+		position: relative;
+	}
+
+	.wizard_image_blue {
+		width: 2.8em;
+		height: 2.8em;
+		text-align: center;
+		line-height: 2em;
+		border-radius: 5.5em;
+		border: solid #2A3F54 2px;
+		margin: 0 0.8em;
+		display: inline-block;
+		color: #2A3F54;
+		position: relative;
+	}
+
+	.wizard_image_main_class li.wizard_image_green::before{
+		background: #008000;
+	    bottom: auto;
+	    content: "";
+	    height: 2px;
+	    left: 36px;
+	    margin-top: 18px;
+	    position: absolute;
+	    right: auto;
+	    width: 27px;
+	    z-index: 1;
+	}
+
+	.wizard_image_main_class li.wizard_image_blue::before{
+		background: #2A3F54;
+	    bottom: auto;
+	    content: "";
+	    height: 2px;
+	    left: 36px;
+	    margin-top: 18px;
+	    position: absolute;
+	    right: auto;
+	    width: 27px;
+	    z-index: 1;
+	}
+}
+
+@media (min-width: 359px) and (max-width: 439px)
+{
+
+	span.marker-text_green {
+		color: #008000;
+		font-size: 6.6px;
+		margin-top: 9px;
+		font-weight: bold;
+	}
+	span.marker-text_blue {
+		color: #2A3F54;
+		font-size: 6.6px;
+		margin-top: 9px;
+		font-weight: bold;
+	}
+
+	.wizard_image_green .green_img {
+		height: 48%;
+		width: 48%;
+		margin-top: 6px;
+	}
+	.wizard_image_blue .blue_img {
+		height: 48%;
+		width: 48%;
+		margin-top: 6px;
+	}
+
+	.wizard_image_green {
+		width: 3em;
+		height: 3em;
+		text-align: center;
+		line-height: 2.1em;
+		border-radius: 5.5em;
+		border: solid #008000 2px;
+		margin: 0 1em;
+		display: inline-block;
+		color: #008000;
+		position: relative;
+	}
+
+	.wizard_image_blue {
+		width: 3em;
+		height: 3em;
+		text-align: center;
+		line-height: 2.1em;
+		border-radius: 5.5em;
+		border: solid #2A3F54 2px;
+		margin: 0 1em;
+		display: inline-block;
+		color: #2A3F54;
+		position: relative;
+	}
+
+	.wizard_image_main_class li.wizard_image_green::before{
+		background: #008000;
+	    bottom: auto;
+	    content: "";
+	    height: 2px;
+	    left: 39px;
+	    margin-top: 18px;
+	    position: absolute;
+	    right: auto;
+	    width: 33px;
+	    z-index: 1;
+	}
+
+	.wizard_image_main_class li.wizard_image_blue::before{
+		background: #2A3F54;
+	    bottom: auto;
+	    content: "";
+	    height: 2px;
+	    left: 39px;
+	    margin-top: 18px;
+	    position: absolute;
+	    right: auto;
+	    width: 33px;
+	    z-index: 1;
+	}
+}
+
+@media (min-width: 374px) and (max-width: 395px)
+{
+	.wizard_image_main_class li:nth-child(5n)::before {
+		width: 10px;
+	}
+}
+
+
+
+@media (min-width: 440px) and (max-width: 500px)
+{
+	.wizard_image_main_class li:nth-child(6n)::before {
+		display:none;
+	}
+}
+
+@media (min-width: 511px) and (max-width: 550px)
+{
+	.wizard_image_main_class li:nth-child(7n)::before {
+		display:none;
+	}
+}
+
+@media (min-width: 440px) and (max-width: 600px)
+{
+	span.marker-text_green {
+		color: #008000;
+		font-size: 6.6px;
+		margin-top: 9px;
+		font-weight: bold;
+	}
+	span.marker-text_blue {
+		color: #2A3F54;
+		font-size: 6.6px;
+		margin-top: 9px;
+		font-weight: bold;
+	}
+
+	.wizard_image_green .green_img {
+		height: 48%;
+		width: 48%;
+		margin-top: 6px;
+	}
+	.wizard_image_blue .blue_img {
+		height: 48%;
+		width: 48%;
+		margin-top: 6px;
+	}
+
+	.wizard_image_green {
+		width: 3em;
+		height: 3em;
+		text-align: center;
+		line-height: 2.1em;
+		border-radius: 5.5em;
+		border: solid #008000 2px;
+		margin: 0 1em;
+		display: inline-block;
+		color: #008000;
+		position: relative;
+	}
+
+	.wizard_image_blue {
+		width: 3em;
+		height: 3em;
+		text-align: center;
+		line-height: 2.1em;
+		border-radius: 5.5em;
+		border: solid #2A3F54 2px;
+		margin: 0 1em;
+		display: inline-block;
+		color: #2A3F54;
+		position: relative;
+	}
+
+	.wizard_image_main_class li.wizard_image_green::before{
+		background: #008000;
+	    bottom: auto;
+	    content: "";
+	    height: 2px;
+	    left: 39px;
+	    margin-top: 18px;
+	    position: absolute;
+	    right: auto;
+	    width: 33px;
+	    z-index: 1;
+	}
+
+	.wizard_image_main_class li.wizard_image_blue::before{
+		background: #2A3F54;
+	    bottom: auto;
+	    content: "";
+	    height: 2px;
+	    left: 39px;
+	    margin-top: 18px;
+	    position: absolute;
+	    right: auto;
+	    width: 33px;
+	    z-index: 1;
+	}
+}
+
+.calculationBoxes {
+	margin-top: 15%;
+}
+@media (max-width: 769px)
+{
+	.calculationBoxes {
+		//margin-top: -50px;
+	}
+}*/
+
+
+/******** New Wizard Styles *********/
+	.step {
+		position: absolute;
+	    padding: 3.3%;
+		height: 50px;
+		width: 50px;
+		border-radius: 50%;
+		text-align: center;
+	}
+	.greenCircle {
+		border: 2px #008000 solid;
+	}
+	.blueCircle {
+		border: 2px #2A3F54 solid;
+	}
+
+	.steps span.name-text_green {
+		color: #008000;
+		font-weight: bold;
+		position: absolute;
+	    top: 107%;
+	    left: 16%;
+	}
+	.steps span.name-text_blue {
+		color: #2A3F54;
+		font-weight: bold;
+		position: absolute;
+	    top: 107%;
+	    left: 16%;
+	}
+
+	.steps .main-image{
+		position: absolute;
+		top: 22%;
+		left: 22%;
+		height:59%;
+	    width:58%;
+	}
+
+	.imgs {
+		position: absolute;
+    	top: -2%;
+    	left: 70%;
+		height:30%;
+	    width:30%;
+	}
+
+	.step-one, .step-two, .step-three, .step-four, .step-five, .step-six, .step-seven, .step-eight {
+		top: 17%;
+	}
+	.step-one {		
+		left: 20%;
+	}
+	.step-two {
+		left: 30%;
+	}
+	.step-three {
+		left: 40%;
+	}
+	.step-four {
+		left: 50%;
+	}
+	.step-five {
+		left: 60%;
+	}
+	.step-six {
+		left: 70%;
+	}
+	.step-seven {
+		left: 80%;
+	}
+	.step-eight {
+		left: 90%;
+	}
+
+	div.steps span {
+		position : absolute;
+		top: 111%;
+		left: 14%;
+	}
+	
+	.step-one::after, .step-two::after, .step-three::after, .step-four::after, .step-five::after, .step-six::after, .step-seven::after {
+		content: "";
+		
+		/* position it in the middle of the circle */
+		position: absolute;
+		top: 46%;
+		left: 102%;
+
+		/* connect circles with a line */
+		width: 43px;
+		height: 5px;
+		//border-top: 2px #008000 solid;
+		
+		/* make sure it's behind the circles */	
+		/*z-index: -1;*/
+	}
+
+	.step-oneGreen::after, .step-twoGreen::after, .step-threeGreen::after, .step-fourGreen::after, .step-fiveGreen::after, .step-sixGreen::after, .step-sevenGreen::after {
+		border-top: 2px #008000 solid;
+	}
+
+	.step-oneBlue::after, .step-twoBlue::after, .step-threeBlue::after, .step-fourBlue::after, .step-fiveBlue::after, .step-sixBlue::after, .step-sevenBlue::after {
+		border-top: 2px #2A3F54 solid;
+	}
+
+	.calculationBoxes {
+		margin-top: 12%;
+	}
+
+	@media (min-width: 279px) and (max-width: 320px)
+	{
+		.step {
+			position: absolute;
+		    padding: 3.3%;		    
+			height: 25px;
+			width: 25px;
+			border-radius: 50%;
+			text-align: center;
+		}
+
+		.steps span.name-text_green {
+			color: #008000;
+			font-size: 5.3px;
+			font-weight: bold;
+			position: absolute;
+		    top: 107%;
+		    left: 16%;
+		    margin-left: -5px;
+		}
+		.steps span.name-text_blue {
+			color: #2A3F54;
+			font-size: 5.3px;
+			font-weight: bold;
+			position: absolute;
+		    top: 107%;
+		    left: 16%;
+		    margin-left: -5px;
+		}
+
+		.steps .main-image{
+			position: absolute;
+			top: 26%;
+	    	left: 27%;
+			height: 47%;
+		    width: 44%;
+		}
+
+		.imgs {
+			position: absolute;
+	    	top: -3%;
+	    	left: 72%;
+			height: 26%;
+		    width: 26%;
+		}
+
+		.step-one::after, .step-two::after, .step-three::after, .step-four::after, .step-five::after, .step-six::after, .step-seven::after {
+			content: "";
+			
+			/* position it in the middle of the circle */
+			position: absolute;
+			top: 46%;
+			left: 102%;
+
+			/* connect circles with a line */
+			width: 7px;
+			height: 5px;
+			//border-top: 1px #008000 solid;
+			
+			/* make sure it's behind the circles */	
+			/*z-index: -1;*/
+		}
+		
+
+
+		.step-one, .step-two, .step-three, .step-four, .step-five, .step-six, .step-seven, .step-eight {
+			top: 25%;
+		}
+		.step-one {		
+			left: 4%;
+		}
+		.step-two {
+			left: 15%;
+		}
+		.step-three {
+			left: 26%;
+		}
+		.step-four {
+			left: 37%;
+		}
+		.step-five {
+			left: 48%;
+		}
+		.step-six {
+			left: 59%;
+		}
+		.step-seven {
+			left: 70%;
+		}
+		.step-eight {
+			left: 81%;
+		}
+
+	}
+
+	@media (min-width: 280px) and (max-width: 550px)
+	{
+		.greenCircle {
+			border: 1px #008000 solid;
+		}
+		.blueCircle {
+			border: 1px #2A3F54 solid;
+		}
+
+		.step-oneGreen::after, .step-twoGreen::after, .step-threeGreen::after, .step-fourGreen::after, .step-fiveGreen::after, .step-sixGreen::after, .step-sevenGreen::after {
+			border-top: 1px #008000 solid;
+		}
+		.step-oneBlue::after, .step-twoBlue::after, .step-threeBlue::after, .step-fourBlue::after, .step-fiveBlue::after, .step-sixBlue::after, .step-sevenBlue::after {
+			border-top: 1px #2A3F54 solid;
+		}
+	}
+
+	@media (min-width: 280px) and (max-width: 380px)
+	{
+		.calculationBoxes {
+			margin-top: 20px;
+		}
+	}
+
+	@media (min-width: 320px) and (max-width: 340px)
+	{
+		.step-one, .step-two, .step-three, .step-four, .step-five, .step-six, .step-seven, .step-eight {
+			top: 28%;
+		}
+
+		.step-one::after, .step-two::after, .step-three::after, .step-four::after, .step-five::after, .step-six::after, .step-seven::after {
+			content: "";
+			/* connect circles with a line */
+			width: 11px;
+		}
+
+		.imgs {
+			position: absolute;
+	    	top: -3%;
+	    	left: 69%;
+		}
+	}
+
+	@media (min-width: 340px) and (max-width: 360px)
+	{
+		.step-one, .step-two, .step-three, .step-four, .step-five, .step-six, .step-seven, .step-eight {
+			top: 16%;
+		}
+
+		.step-one::after, .step-two::after, .step-three::after, .step-four::after, .step-five::after, .step-six::after, .step-seven::after {
+			content: "";
+			width: 11px;
+		}
+
+		.calculationBoxes {
+			margin-top: 28px;
+		}
+
+	}
+
+	@media (min-width: 340px) and (max-width: 410px)
+	{
+		.step {
+			position: absolute;
+		    padding: 3.3%;		    
+			height: 30px;
+			width: 30px;
+			border-radius: 50%;
+			text-align: center;
+		}
+
+		.steps span.name-text_green {
+			color: #008000;
+		    font-size: 6.2px;
+		    font-weight: bold;
+		    position: absolute;
+		    top: 107%;
+		    left: 16%;
+		    margin-left: -5px;
+		}
+		.steps span.name-text_blue {
+			color: #2A3F54;
+			color: #008000;
+		    font-size: 6.2px;
+		    font-weight: bold;
+		    position: absolute;
+		    top: 107%;
+		    left: 16%;
+		    margin-left: -5px;
+		}
+
+		.steps .main-image{
+			position: absolute;
+			top: 25%;
+	    	left: 25%;
+			height: 50%;
+		    width: 48%;
+		}
+
+		.imgs {
+			position: absolute;
+	    	top: -4%;
+	    	left: 71%;
+			height: 30%;
+		    width: 28%;
+		}
+
+		.step-one::after, .step-two::after, .step-three::after, .step-four::after, .step-five::after, .step-six::after, .step-seven::after {
+			content: "";
+			
+			/* position it in the middle of the circle */
+			position: absolute;
+			top: 46%;
+			left: 102%;
+			height: 5px;
+		}
+
+		.step-one {		
+			left: 4%;
+		}
+		.step-two {
+			left: 15%;
+		}
+		.step-three {
+			left: 26%;
+		}
+		.step-four {
+			left: 37%;
+		}
+		.step-five {
+			left: 48%;
+		}
+		.step-six {
+			left: 59%;
+		}
+		.step-seven {
+			left: 70%;
+		}
+		.step-eight {
+			left: 81%;
+		}
+	}
+
+	@media (min-width: 361px) and (max-width: 380px)
+	{
+		.step-one, .step-two, .step-three, .step-four, .step-five, .step-six, .step-seven, .step-eight {
+			top: 15%;
+		}
+
+		.step-one::after, .step-two::after, .step-three::after, .step-four::after, .step-five::after, .step-six::after, .step-seven::after {
+			width: 12px;
+		}
+
+		.calculationBoxes {
+			margin-top: 28px;
+		}
+	}
+
+	@media (min-width: 411px) and (max-width: 413px)
+	{
+		.step-one, .step-two, .step-three, .step-four, .step-five, .step-six, .step-seven, .step-eight {
+			top: 13%;
+		}
+	}
+
+	@media (min-width: 414px) and (max-width: 450px)
+	{
+		.step-one, .step-two, .step-three, .step-four, .step-five, .step-six, .step-seven, .step-eight {
+			top: 14%;
+		}
+	}
+
+	@media (min-width: 411px) and (max-width: 550px)
+	{
+		.step {
+			position: absolute;
+		    padding: 3.3%;		    
+			height: 34px;
+			width: 34px;
+			border-radius: 50%;
+			text-align: center;
+		}
+
+		.steps span.name-text_green {
+			color: #008000;
+		    font-size: 7px;
+		    font-weight: bold;
+		    position: absolute;
+		    top: 107%;
+		    left: 16%;
+		    margin-left: -5px;
+		}
+		.steps span.name-text_blue {
+			color: #2A3F54;
+			color: #008000;
+		    font-size: 7px;
+		    font-weight: bold;
+		    position: absolute;
+		    top: 107%;
+		    left: 16%;
+		    margin-left: -5px;
+		}
+
+		.steps .main-image{
+			position: absolute;
+			top: 25%;
+	    	left: 25%;
+			height: 52%;
+		    width: 50%;
+		}
+
+		.imgs {
+			position: absolute;
+	    	top: -4%;
+	    	left: 69%;
+			height: 30%;
+		    width: 30%;
+		}
+
+		.step-one::after, .step-two::after, .step-three::after, .step-four::after, .step-five::after, .step-six::after, .step-seven::after {
+			content: "";
+			
+			/* position it in the middle of the circle */
+			position: absolute;
+			top: 46%;
+			left: 102%;
+
+			/* connect circles with a line */
+			width: 12px;
+			height: 5px;
+		}
+		
+
+		.step-one {		
+			left: 4%;
+		}
+		.step-two {
+			left: 15%;
+		}
+		.step-three {
+			left: 26%;
+		}
+		.step-four {
+			left: 37%;
+		}
+		.step-five {
+			left: 48%;
+		}
+		.step-six {
+			left: 59%;
+		}
+		.step-seven {
+			left: 70%;
+		}
+		.step-eight {
+			left: 81%;
+		}
+
+		.calculationBoxes {
+		    margin-top: 40px;
+		}
+	}
+
+	@media (min-width: 450px) and (max-width: 475px)
+	{
+		.step {
+			position: absolute;
+		    padding: 3.3%;		    
+			height: 39px;
+			width: 39px;
+			border-radius: 50%;
+			text-align: center;
+		}
+
+		.step-one, .step-two, .step-three, .step-four, .step-five, .step-six, .step-seven, .step-eight {
+		    top: 21%;
+		}
+	}
+
+	@media (min-width: 476px) and (max-width: 490px)
+	{
+		.step {
+			position: absolute;
+		    padding: 3.3%;		    
+			height: 39px;
+			width: 39px;
+			border-radius: 50%;
+			text-align: center;
+		}
+	}
+
+	@media (min-width: 501px) and (max-width: 550px)
+	{
+		.step-one, .step-two, .step-three, .step-four, .step-five, .step-six, .step-seven, .step-eight {
+		    top: 21%;
+		}
+	}
+
+	@media (min-width: 768px) and (max-width: 1169px)
+	{
+		.step {
+			position: absolute;
+		    padding: 3.3%;		    
+			height: 42px;
+			width: 42px;
+			border-radius: 50%;
+			text-align: center;
+		}
+
+		.steps span.name-text_green {
+			color: #008000;
+			font-size: 10px;
+			font-weight: bold;
+			position: absolute;
+		    top: 107%;
+		    left: 12%;
+		}
+		.steps span.name-text_blue {
+			color: #2A3F54;
+			font-size: 10px;
+			font-weight: bold;
+			position: absolute;
+		    top: 107%;
+		    left: 12%;
+		}
+
+		.steps .main-image {
+		    position: absolute;
+		    top: 24%;
+		    left: 28%;
+		    height: 50%;
+		    width: 47%;
+		}
+
+
+		.step-one, .step-two, .step-three, .step-four, .step-five, .step-six, .step-seven, .step-eight {
+		    top: 11%;
+		}
+
+		.step-one {
+		    left: 2%;
+		}
+		.step-two {
+			left: 14%;
+		}
+		.step-three {
+			left: 26%;
+		}
+		.step-four {
+			left: 38%;
+		}
+		.step-five {
+			left: 50%;
+		}
+		.step-six {
+			left: 62%;
+		}
+		.step-seven {
+			left: 74%;
+		}
+		.step-eight {
+			left: 86%;
+		}
+
+		.calculationBoxes {
+		    margin-top: 80px;
+		}
+	}
+
+	@media (min-width: 768px) and (max-width: 799px)
+	{	
+		/* connect circles with a line */
+		.step-one::after, .step-two::after, .step-three::after, .step-four::after, .step-five::after, .step-six::after, .step-seven::after {
+		    width: 40px;
+		}
+	}
+
+	@media (min-width: 800px) and (max-width: 824px)
+	{
+		.step-one::after, .step-two::after, .step-three::after, .step-four::after, .step-five::after, .step-six::after, .step-seven::after {
+		    width: 41px;
+		}
+	}
+
+	@media (min-width: 825px) and (max-width: 850px)
+	{
+		.step-one::after, .step-two::after, .step-three::after, .step-four::after, .step-five::after, .step-six::after, .step-seven::after {
+		    width: 43px;
+		}
+	}
+
+	@media (min-width: 851px) and (max-width: 876px)
+	{
+		.step-one::after, .step-two::after, .step-three::after, .step-four::after, .step-five::after, .step-six::after, .step-seven::after {
+		    width: 45px;
+		}
+	}
+
+	@media (min-width: 877px) and (max-width: 900px)
+	{
+		.step-one::after, .step-two::after, .step-three::after, .step-four::after, .step-five::after, .step-six::after, .step-seven::after {
+		    width: 46px;
+		}
+	}
+
+	@media (min-width: 901px) and (max-width: 920px)
+	{
+		.step-one::after, .step-two::after, .step-three::after, .step-four::after, .step-five::after, .step-six::after, .step-seven::after {
+		    width: 47px;
+		}
+	}
+
+	@media (min-width: 921px) and (max-width: 940px)
+	{
+		.step-one::after, .step-two::after, .step-three::after, .step-four::after, .step-five::after, .step-six::after, .step-seven::after {
+		    width: 48px;
+		}
+	}
+
+	@media (min-width: 1170px) and (max-width: 1199px)
+	{
+		.step-one::after, .step-two::after, .step-three::after, .step-four::after, .step-five::after, .step-six::after, .step-seven::after {
+			width: 38px;
+		}
+	}
+
+	@media (min-width: 1200px) and (max-width: 1267px)
+	{
+		.step-one::after, .step-two::after, .step-three::after, .step-four::after, .step-five::after, .step-six::after, .step-seven::after {
+			width: 39px;
+		}
+	}
+
+
+
+

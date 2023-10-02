@@ -1,0 +1,39 @@
+
+.boldFont {
+	font-weight: bold;
+}
+
+@media (max-width: 991px)
+{
+	.smallDisplayTheadHiddenInsideCab, .smallDisplayTheadHiddenGroundLevel {
+		display: none;
+	}
+}
+
+/*For Mot Text Alble and Checkbox inline*/
+.motMainDiv .motTextLabel {
+	padding-top: 2px;
+}
+
+@media (max-width: 767px)
+{
+	.motMainDiv .motTextLabel {
+		padding-top: 10px;
+	}
+}
+
+
+@media (min-width: 311px) and (max-width: 320px)
+{
+	
+}
+
+
+
+
+
+
+
+
+
+
